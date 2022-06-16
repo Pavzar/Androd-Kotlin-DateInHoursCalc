@@ -1,2 +1,2 @@
 # Androd-Kotlin-DateInHoursCalc
-Simple android app using Kotlin to determine hours between dates
+Simple android app using Kotlin to determine the difference of hours between dates
